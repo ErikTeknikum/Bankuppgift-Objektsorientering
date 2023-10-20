@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Anställda med arv och polymorfism/1.0.0": {
+        "runtime": {
+          "Anställda med arv och polymorfism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anställda med arv och polymorfism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

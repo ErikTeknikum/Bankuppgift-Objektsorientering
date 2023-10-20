@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\bin\Debug\net6.0\Anställda med arv och polymorfism.exe
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\bin\Debug\net6.0\Anställda med arv och polymorfism.deps.json
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\bin\Debug\net6.0\Anställda med arv och polymorfism.runtimeconfig.json
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\bin\Debug\net6.0\Anställda med arv och polymorfism.dll
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\bin\Debug\net6.0\Anställda med arv och polymorfism.pdb
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.dll
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\refint\Anställda med arv och polymorfism.dll
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.pdb
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\Anställda med arv och polymorfism.genruntimeconfig.cache
+C:\Users\Elev\source\repos\Anställda med arv och polymorfism\Anställda med arv och polymorfism\obj\Debug\net6.0\ref\Anställda med arv och polymorfism.dll
